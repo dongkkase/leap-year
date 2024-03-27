@@ -1,3 +1,4 @@
+<?php
 echo date("L", strtotime("2019-01-01")); // 0
 echo date("L", strtotime("2020-01-01")); // 1
 echo date("L", strtotime("2021-01-01")); // 0
